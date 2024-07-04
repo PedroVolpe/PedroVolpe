@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There :wave: </h1>
 
 
-# My name is Pedro Volpe 
+# My name is Pedro Volpe, and this is my github for finished projects.
 
 
 
